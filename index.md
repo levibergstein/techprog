@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-# Образование
-- Студент бакалавриата СПбГУ по направлению «Технологии программирования»
 
-# Контакты
-- email: alexey.chelpanov.v@gmail.com
+
+# Одноклассники
+Nikita Morozov https://tepemok002.github.io/Labaratorna02/
